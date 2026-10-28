@@ -173,7 +173,8 @@ def generate_hero():
                 cls_str = ' class="g2"'
             elif i in (9, 21):
                 cls_str = ' class="g3"'
-            text_nodes.append(f'<text x="760.0" y="{y_cursor:.1f}" textLength="450.0" lengthAdjust="spacingAndGlyphs"{cls_str}>{line}</text>')
+            xml_line = line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            text_nodes.append(f'<text x="760.0" y="{y_cursor:.1f}" textLength="450.0" lengthAdjust="spacingAndGlyphs"{cls_str}>{xml_line}</text>')
             y_cursor += 15.2
 
         # Dot matrix background
