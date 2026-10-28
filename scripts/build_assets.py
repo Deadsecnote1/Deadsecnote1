@@ -457,7 +457,7 @@ def generate_footer():
         btn_fg = "#0c0c0d" if is_dark else "#f6f5f2"
 
         t_head, _ = text_element("B", "LET'S INVESTIGATE.", 82, 68, 146, text_primary)
-        t_sub, _ = text_element("B5", "Open for cybersecurity internships, SOC analysis, and security investigations.", 20, 72, 216, text_muted)
+        t_sub, _ = text_element("B5", "Open for internships · davidthanu1006@gmail.com", 20, 72, 216, text_muted)
         t_btn, _ = text_element("B", "GET IN TOUCH", 18, 912, 218, btn_fg)
 
         svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Let's investigate. Thanushiyan Kanthasami">

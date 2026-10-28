@@ -4,7 +4,7 @@
 <a href="https://tryhackme.com/p/MrDarkWing"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-tryhackme-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-tryhackme-light.svg"/><img src="./assets/btn-tryhackme-dark.svg" height="44" alt="TryHackMe"/></picture></a>
 <a href="https://linkedin.com/in/thanushiyan-kanthasami"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"/><img src="./assets/btn-linkedin-dark.svg" height="44" alt="LinkedIn"/></picture></a>
 <a href="https://github.com/Deadsecnote1"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-github-light.svg"/><img src="./assets/btn-github-dark.svg" height="44" alt="GitHub"/></picture></a>
-<a href="mailto:thanushiyan.kanthasami@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"/><img src="./assets/btn-email-dark.svg" height="44" alt="Email"/></picture></a>
+<a href="mailto:davidthanu1006@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"/><img src="./assets/btn-email-dark.svg" height="44" alt="Email"/></picture></a>
 </p>
 
 <br/>
@@ -25,4 +25,4 @@ I am looking for a **Cybersecurity / SOC Analyst Internship**, in Colombo or rem
 
 <br/><br/>
 
-<a href="mailto:thanushiyan.kanthasami@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"/><img src="./assets/footer-dark.svg" width="100%" alt="Let's investigate. thanushiyan.kanthasami@gmail.com"/></picture></a>
+<a href="mailto:davidthanu1006@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"/><img src="./assets/footer-dark.svg" width="100%" alt="Let's investigate. davidthanu1006@gmail.com"/></picture></a>
